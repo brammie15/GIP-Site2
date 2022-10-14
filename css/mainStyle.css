@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+    background-image: none;
+}
+
+.cta2 {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: lightgray;
+}
+
+
+span{
+    color: black;
+}
+/*groen: #11A305*/
